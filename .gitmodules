@@ -1,0 +1,3 @@
+[submodule "uploaders"]
+	path = uploaders
+	url = https://github.com/ShareX/CustomUploaders.git
